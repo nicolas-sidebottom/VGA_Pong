@@ -1,0 +1,4 @@
+Running: xsim.dir/Pong_Top_behav/xsimk.exe -simmode gui -wdb Pong_Top_behav.wdb -simrunnum 0 -socket 53999
+Design successfully loaded
+Design Loading Memory Usage: 29556 KB (Peak: 29556 KB)
+Design Loading CPU Usage: 406 ms

@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/Locke/Desktop/VSCode_Projects/Verilog/VGA_Adapter_Project/Button_Debounce.v,1748672819,verilog,,C:/Users/Locke/Desktop/VSCode_Projects/Verilog/VGA_Adapter_Project/Pixel_Generator.v,,button_Debouncer,,,,,,,,
+C:/Users/Locke/Desktop/VSCode_Projects/Verilog/VGA_Adapter_Project/Pixel_Generator.v,1748817924,verilog,,C:/Users/Locke/Desktop/VSCode_Projects/Verilog/VGA_Adapter_Project/VGA_Sync_Handler.v,,pixel_generator,,,,,,,,
+,,,,,,Pong_Top,,,,,,,,
+C:/Users/Locke/Desktop/VSCode_Projects/Verilog/VGA_Adapter_Project/VGA_Sync_Handler.v,1748816975,verilog,,C:/Users/Locke/Desktop/VSCode_Projects/Verilog/VGA_Adapter_Project/Pong_Top.v,,vga_handler,,,,,,,,
+C:/Users/Locke/Desktop/VSCode_Projects/Verilog/VGA_Adapter_Project/VGA_Sync_HandlerTB.v,1748599314,verilog,,,C:/Users/Locke/Desktop/VSCode_Projects/Verilog/VGA_Adapter_Project/VGA_Sync_Handler.v,VGA_Sync_HandlerTB,,,,,,,,
+C:/Users/Locke/VGA_Pong/VGA_Pong.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
