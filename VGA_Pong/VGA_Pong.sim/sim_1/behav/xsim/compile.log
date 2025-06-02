@@ -1,8 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Locke/Desktop/VSCode_Projects/Verilog/VGA_Adapter_Project/Button_Debounce.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module button_Debouncer
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Locke/Desktop/VSCode_Projects/Verilog/VGA_Adapter_Project/Pixel_Generator.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module pixel_generator
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Locke/Desktop/VSCode_Projects/Verilog/VGA_Adapter_Project/VGA_Sync_Handler.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module vga_handler
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Locke/Desktop/VSCode_Projects/Verilog/VGA_Adapter_Project/Pong_Top.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module Pong_Top
