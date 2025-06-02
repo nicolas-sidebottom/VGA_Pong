@@ -1,0 +1,49 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.0",
+   "Default View_TopLeft":"-222,-214",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.8.0 2024-04-26 e1825d835c VDI=44 GEI=38 GUI=JA:21.0
+#  -string -flagsOSRD
+preplace port port-id_o_blue -pg 1 -lvl 6 -x 1470 -y 360 -defaultsOSRD
+preplace port port-id_o_green -pg 1 -lvl 6 -x 1470 -y 340 -defaultsOSRD
+preplace port port-id_o_red -pg 1 -lvl 6 -x 1470 -y 320 -defaultsOSRD
+preplace port port-id_o_vsync -pg 1 -lvl 6 -x 1470 -y 300 -defaultsOSRD
+preplace port port-id_o_hsync -pg 1 -lvl 6 -x 1470 -y 280 -defaultsOSRD
+preplace port port-id_i_down_but -pg 1 -lvl 0 -x -30 -y 330 -defaultsOSRD
+preplace port port-id_i_up_but -pg 1 -lvl 0 -x -30 -y 450 -defaultsOSRD
+preplace port port-id_i_reset -pg 1 -lvl 0 -x -30 -y 180 -defaultsOSRD
+preplace port port-id_i_clock -pg 1 -lvl 0 -x -30 -y 250 -defaultsOSRD
+preplace inst pixel_generator_0 -pg 1 -lvl 5 -x 1270 -y 10 -defaultsOSRD
+preplace inst vga_handler_0 -pg 1 -lvl 4 -x 940 -y 130 -defaultsOSRD
+preplace inst button_Debouncer_Down -pg 1 -lvl 4 -x 940 -y 320 -defaultsOSRD
+preplace inst button_Debouncer_Up -pg 1 -lvl 4 -x 940 -y 440 -defaultsOSRD
+preplace inst button_Debouncer_Reset -pg 1 -lvl 2 -x 320 -y 170 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 1 -x 90 -y 250 -defaultsOSRD
+preplace inst proc_sys_reset_0 -pg 1 -lvl 3 -x 630 -y 130 -defaultsOSRD
+preplace inst Pong_Top_0 -pg 1 -lvl 5 -x 1270 -y 380 -defaultsOSRD
+preplace netloc Pong_Top_0_o_blue 1 5 1 1440 360n
+preplace netloc Pong_Top_0_o_green 1 5 1 1420 340n
+preplace netloc Pong_Top_0_o_hsync 1 5 1 1410 280n
+preplace netloc Pong_Top_0_o_red 1 5 1 1400 320n
+preplace netloc Pong_Top_0_o_vsync 1 5 1 1430 300n
+preplace netloc button_Debouncer_Down_o_button 1 4 1 1130 10n
+preplace netloc button_Debouncer_Reset_o_button 1 2 1 430 110n
+preplace netloc button_Debouncer_Up_o_button 1 4 1 1090 -10n
+preplace netloc clk_in1_0_1 1 0 1 NJ 250
+preplace netloc clk_wiz_0_clk_out1 1 1 4 200 90 460 30 810 10 1100
+preplace netloc clk_wiz_0_locked 1 1 2 210J 100 440
+preplace netloc i_button_0_1 1 0 4 NJ 330 NJ 330 NJ 330 NJ
+preplace netloc i_button_1_1 1 0 4 NJ 450 NJ 450 NJ 450 NJ
+preplace netloc i_button_2_1 1 0 2 NJ 180 NJ
+preplace netloc proc_sys_reset_0_mb_reset 1 3 2 820 20 1110
+preplace netloc vga_handler_0_o_display_on 1 4 1 1060 30n
+preplace netloc vga_handler_0_o_h_spot 1 4 1 1120 50n
+preplace netloc vga_handler_0_o_v_spot 1 4 1 1140 70n
+levelinfo -pg 1 -30 90 320 630 940 1270 1470
+pagesize -pg 1 -db -bbox -sgen -160 -170 1580 520
+"
+}
+{
+   "da_clkrst_cnt":"12"
+}
